@@ -26,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="036e1b36-b6e7-4dc0-865f-31b5f4bee1c6" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -103,7 +106,7 @@
       <updated>1744998773087</updated>
       <workItem from="1744998774103" duration="2360000" />
       <workItem from="1745043462592" duration="2763000" />
-      <workItem from="1745148559828" duration="1911000" />
+      <workItem from="1745148559828" duration="3348000" />
     </task>
     <servers />
   </component>
